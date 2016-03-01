@@ -1,0 +1,34 @@
+.rowbottom{
+	padding-bottom: 10em;
+}
+#header {
+	background-color: #00B8D4;
+}
+#footer {
+	background-color: #00B8D4;
+}
+.next{
+	right: 5px;
+}
+.before{
+	left:5px;
+}
+.container{
+	width: 800px;
+	margin: 0 auto;
+	text-align: center;
+	position: relative;
+}
+.container div{
+	background-color: white;
+	width: 80%;
+	display: inline-block;
+	display: none;
+}
+.container img{
+	width: 100%;
+	height: auto;
+}
+button {
+	position: absolute;
+}
