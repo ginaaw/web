@@ -1,0 +1,3 @@
+Latihan bertujuan untuk mengasah kemampuan HTML dan CSS dengan membuat versi HTML dari desain (PSD) 
+
+Sumber desain : bestwebgallery.com
