@@ -1,0 +1,95 @@
+table{
+    border-collapse: separate;
+}
+.img-profpic{
+    width:600px;
+}
+.table-utama {
+    width: 100%;
+    height:100%;
+    padding-left: 10px;
+}
+.table-info-td{
+    padding-left: 20px;
+    padding-right:20px;
+    text-align: justify;
+    padding-top: 100px;
+}
+.btn-menu{
+    border: 2px solid #000;
+    appearance: button;
+    width: 100px;
+    height:50px;
+    background-color: #ffffff;
+    text-decoration: none;
+    -webkit-appearance: button;
+}
+.table-menu-info{
+    padding-top: 0px;
+}
+.font-info-diri{
+    font-family: "segoe ui";
+    font-size: 20px;
+    font-weight: 200;
+}
+.font-menu{
+    font-size: 16px;
+    font-family: "microsoft phagspa";
+}
+.table-menu{
+    
+}
+.td-utama{
+    vertical-align: top;
+    padding-top: 60px;
+}
+
+/*academic style*/
+.table-title{
+    text-align: center;
+}
+.table-content{
+    padding-top: 50px;
+    text-align: justify;
+    
+}
+.table-content-sub{
+    text-align: justify;
+    padding-bottom: 30px;
+}
+.td-bc{
+    border:2px solid;
+}
+.td-ju{
+    border:2px solid;
+}
+.td-high{
+    text-align: right;
+    border:2px solid;
+}
+.td-el{
+    text-align: right;
+    border:2px solid;
+}
+.font-title{
+    font-size: 30px;
+    font-family: "microsoft phagspa";
+    font-weight: 600;
+}
+
+.p-detail{
+    font-family: "segoe ui";
+}
+.td-detail{
+    padding-top: 20px;
+}
+.title-besar{
+    font-family: "gadugi";
+    font-size: 80px;
+    font-weight: 600;
+}
+/*favorite style*/
+.img-fav{
+    width: 100px;
+    border: 2px solid;
+}

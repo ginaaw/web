@@ -1,3 +1,4 @@
-Latihan bertujuan untuk mengasah kemampuan HTML dan CSS dengan membuat versi HTML dari desain (PSD) 
+Pada latihan ini saya mencoba untuk membuat versi HTML dari desain web yang saya ambil di internet. 
 
 Sumber desain : bestwebgallery.com
+Notes : Desain web bukanlah milik saya, sepenuhnya saya ambil dari sumber. 
